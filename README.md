@@ -1,5 +1,11 @@
 # 💫 About Me:
- 👋 ¡Hola! Soy Eitan Steven Gil, un apasionado del desarrollo de software con base en Argentina. Actualmente, estoy embarcado en una emocionante aventura de aprendizaje mientras estudio la carrera de **Desarrollo de Aplicaciones Informáticas** en la **Facultad de Ciencias Exactas** de Tandil. Además, he complementado mi formación con un curso de frontend en la prestigiosa **Universidad Tecnologica Nacional** de Argentina (UTN).<br><br>💻 Mi viaje en el desarrollo de software comenzó recientemente, pero ha sido un ascenso vertiginoso. Comencé como autodidacta y ahora me encuentro diseñando y desarrollando sitios web personalizados para pequeños clientes y emprendedores.<br><br>¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en ponerte en contacto conmigo.<br>
+ 👋 ¡Hola! Soy Eitan Steven Gil, un apasionado del desarrollo de software con base en Argentina. 
+
+Actualmente me encuentro estudiando la Tecnicatura Superior en Mineria del **isft130**, mi trayecto como programador se ah forjado de forma mayormente autodidacta con bases adquiridas en la **Ingenieria en Sistemas de UNICEN**, la **Tecnicatura Universitaria de Desarrollo de Aplicaciones Informaticas**, y cursos de programación web como los dados por la **UTN**.
+
+En este perfil encontraras mis proyectos, actualmente trabajo desarrollando recursos del ámbito minero o de mi carrera actual.
+
+Si gustas sumarte a colaborar con un proyecto, no dudes en ponerte en contacto conmigo.
 
 
 # 💻 Tech Stack:
@@ -8,8 +14,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=EitanSteven&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
